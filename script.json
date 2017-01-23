@@ -42,7 +42,7 @@
    "I LOVE YOU": "Awh, shucks! I love you too!",
    "TELL ME A JOKE": "Why do Java programmers wear glasses? %[Answer](postback:answer)",
 
-   "ANSWER": "Because they don't C/# /n Get it?  'See Sharp' HA HA HA /n Okay its for programmers!  Sue me", 
+   "ANSWER": "Because they don't C# \n Get it?  'See Sharp' HA HA HA \n Okay its for programmers!  Sue me", 
    "CONNECT ME": "",
    "DISCONNECT": "Roger that, Apphia is back in charge."
 }
