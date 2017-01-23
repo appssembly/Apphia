@@ -1,4 +1,5 @@
 {
+ 
 "HELLO": "Hello, \n Would you like to get to know Appssembly better?\n %[Learn about Appssembly](postback:learn_about_appssembly) %[No, thanks](postback:no_thanks)",
 "HI": "Hello, \n Would you like to get to know Appssembly better?\n %[Learn about Appssembly](postback:learn_about_appssembly) %[No, thanks](postback:no_thanks)",
 "HOWDY": "Hello, \n Would you like to get to know Appssembly better?\n %[Learn about Appssembly](postback:learn_about_appssembly) %[No, thanks](postback:no_thanks)",
@@ -9,4 +10,23 @@
 "HELLO APPHIA": "Hi there, \n Would you like to get to know Appssembly better?\n %[Learn about Appssembly](postback:learn_about_appssembly) %[No, thanks](postback:no_thanks)",  
 "HI APPHIA": "Hi, \n Would you like to get to know Appssembly better?\n %[Learn about Appssembly](postback:learn_about_appssembly) %[No, thanks](postback:no_thanks)",
  
-} 
+"YES": "Great!\n Quite simply Appssembly is a mobile development solutions provider. We don't try and push products to clients; we seek out the most suitable solutions \n %[Why Appssembly](postback:why_appssembly) %[Services](postback:services) %[The Team](postback:the_team)",
+"GET TO KNOW": "Great!\n Quite simply Appssembly is a mobile development solutions provider. We don't try and push products to clients; we seek out the suitable solutions \n %[Why Appssembly](postback:why_appssembly) %[Services](postback:services) %[The Team](postback:the_team)",
+"LEARN ABOUT APPSSEMBLY": "Great!\n Quite simply Appssembly is a mobile development solutions provider. We don't try and push products to clients; we seek out the suitable solutions \n %[Why Appssembly](postback:why_appssembly) %[Services](postback:services) %[The Team](postback:the_team)",
+"TELL ME ABOUT APPSSEMBLY": "Great!\n Quite simply Appssembly is a mobile development solutions provider. We don't try and push products to clients; we seek out the suitable solutions \n %[Why Appssembly](postback:why_appssembly) %[Services](postback:services) %[The Team](postback:the_team)",
+"LEARN ABOUT APPSSEMBLY": "Great!\n Quite simply Appssembly is a mobile development solutions provider. We don't try and push products to clients; we seek out the suitable solutions \n %[Why Appssembly](postback:why_appssembly) %[Services](postback:services) %[The Team](postback:the_team)",
+   
+"NO, THANKS": "No worries!\n Just say HELLO and I'll be at your disposal",
+"NO, THANK YOU": "No worries!\n Just say HELLO and I'll be at your disposal",
+"NO": "No worries!\n Just say HELLO and I'll be at your disposal",
+"BYE": "Thank you for your interest, enjoy the rest of your day\n Bye!\n Just say HELLO and I'll be at your disposal",
+"GOODBYE": "Thank you for your interest, enjoy the rest of your day\n Bye!\n Just say HELLO and I'll be at your disposal",
+"GOOD BYE": "Thank you for your interest, enjoy the rest of your day\n Bye!\n Just say HELLO and I'll be at your disposal",
+"BYE APPHIA": "Thank you for your interest, enjoy the rest of your day\n Bye!\n Just say HELLO and I'll be at your disposal",
+"GOODBYE APPHIA": "Thank you for your interest, enjoy the rest of your day\n Bye!\n Just say HELLO and I'll be at your disposal",
+"GOOD BYE APPHIA": "Thank you for your interest, enjoy the rest of your day\n Bye!\n Just say HELLO and I'll be at your disposal".
+
+
+
+}
+
