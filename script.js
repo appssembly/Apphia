@@ -12,7 +12,6 @@ module.exports = new Script({
     },
 
     start: {
-        prompt: (bot) => bot.say('What\'s your name?'),
         receive: (bot) => {
             return bot.say('So you want to learn about Apphia? Just say HELLO to get started.').then(() => 'speak');
        }
