@@ -31,7 +31,7 @@
         
    "THE TEAM": "%[Saleem](postback:saleem) %[Lyndal](postback:lyndal)",
 
-   "SALEEM": "![Saleem](https://raw.githubusercontent.com/appssembly/Apphia/master/img/me-Cropped_156-1-small.png) \n Meet Saleem. He is the founder of Appssembly.  With extensive experience in the IT Industry, he is passionate in helping small to medium sized businesses embrace the mobile digital revolution \n %[Lyndal](postback:lyndal) %[Why Appssembly](postback:why_appssembly) %[Services](postback:services)", 
+   "SALEEM": "![Saleem](https://raw.githubusercontent.com/appssembly/Apphia/master/img/me-Cropped_156-1-small.png) \n Saleem is the founder of Appssembly.  With extensive experience in the IT Industry, he is passionate in helping small to medium sized businesses embrace the mobile digital revolution \n %[Lyndal](postback:lyndal) %[Why Appssembly](postback:why_appssembly) %[Services](postback:services)", 
    "LYNDAL": "![Lyndal](https://raw.githubusercontent.com/appssembly/Apphia/master/img/her-Cropped_138_small.png) \n Lyndal is ...\n %[Saleem](postback:saleem) %[Why Appssembly](postback:why_appssembly) %[Services](postback:services)", 
 
    "SERVICES": "Appssembly mainly provide two services, %[Mobile Marketing Apps](postback:mobile_marketing_apps) %[Custom App Development](postback:custom_app_development) %[Why Appssembly](postback:why_appssembly)  %[The Team](postback:the_team)",
