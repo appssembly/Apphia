@@ -4,18 +4,30 @@ const _ = require('lodash');
 const Script = require('smooch-bot').Script;
 
 const scriptRules = require('./script.json');
+var previousUpperText = '';
 
 module.exports = new Script({
     processing: {
-        //prompt: (bot) => bot.say('Beep boop...'),        
+        //prompt: (bot) => bot.say('Beep boop...'),
         receive: () => 'processing'
     },
 
     start: {
         receive: (bot) => {
-            return bot.say('So you want to learn about Apphia? Just say HELLO to get started.')
+            return bot.say("Hello, I am Apphia, Appssembly's personal assistant")
+                .then(() => 'askName');
+        }
+    },
+
+ askName : {
+        prompt: (bot) => bot.say('What\'s your name?'),
+        receive: (bot, message) => {
+            const name = message.text;
+            return bot.setProp('name', name)
+                .then(() => bot.say(`Very nice to meet you!
+Would you like to get to know Adrian? %[Yes](postback:yes) %[No, thanks](postback:no)`))
                 .then(() => 'speak');
-       }
+        }
     },
 
     speak: {
@@ -44,7 +56,14 @@ module.exports = new Script({
                 }
 
                 if (!_.has(scriptRules, upperText)) {
-                    return bot.say(`I didn't understand that.`).then(() => 'speak');
+                    return bot.say(`I am sorry, I do not know the answer to that question. Maybe Appssembly can get back to you with the answer to your query.`).then(() => 'speak');
+                }
+                
+                // If text is the same as the previous one, ignore
+                if (previousUpperText == upperText) {
+                    return Promise.resolve("speak");
+                }else{
+                    previousUpperText = upperText;
                 }
 
                 var response = scriptRules[upperText];
