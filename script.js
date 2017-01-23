@@ -12,14 +12,10 @@ module.exports = new Script({
     },
 
     start: {
+        prompt: (bot) => bot.say('What\'s your name?'),
         receive: (bot) => {
-            return bot.say('Hello, I am Charlie.')
-                .then(() => 'askName');
-        }
-        //receive: (bot) => {
-          //  return bot.say('So you want to learn about Esther? Just say HELLO to get started.')
-            //    .then(() => 'speak');
-        //}
+            return bot.say('So you want to learn about Apphia? Just say HELLO to get started.').then(() => 'speak');
+       }
     },
 
     speak: {
