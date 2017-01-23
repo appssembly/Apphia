@@ -1,5 +1,5 @@
 {
-   "HELLO": "Hello, \n Would you like to get to know Appssembly better?\n %[Learn about Appssembly](postback:learn_about_appssembly) %[No, thanks](postback:no_thanks)",
+   "HELLO": "Hello, \n Would you like to get to know Appssembly better?\n %[Learn about \n Appssembly](postback:learn_about_appssembly) %[No, thanks](postback:no_thanks)",
    "HI": "Hello, \n Would you like to get to know Appssembly better?\n %[Learn about Appssembly](postback:learn_about_appssembly) %[No, thanks](postback:no_thanks)",
    "HOWDY": "Hello, \n Would you like to get to know Appssembly better?\n %[Learn about Appssembly](postback:learn_about_appssembly) %[No, thanks](postback:no_thanks)",
    "HOLA": "Hello, \n Would you like to get to know Appssembly better?\n %[Learn about Appssembly](postback:learn_about_appssembly) %[No, thanks](postback:no_thanks)",
