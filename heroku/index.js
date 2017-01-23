@@ -31,7 +31,7 @@ class BetterSmoochApiBot extends SmoochApiBot {
     }
 }
 
-const name = 'Charlie';
+const name = 'Apphia';
 const avatarUrl = 'https://raw.githubusercontent.com/adidibmx/EstherBot/master/img/charlie.jpg';
 const store = new SmoochApiStore({
     jwt
