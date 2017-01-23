@@ -1,8 +1,85 @@
 {
-    "BOT": "Hi there!\nI’m Apphia, Appssembly's assistant bot, \nWant to know more about bots or learn about Appssembly? %[I'm here for the bot](postback:here_for_the_bot) %[Learn about Appssembly](postback:learn_about_esther) %[One random fact!](postback:random_fact)",
-    "HELLO": "Hey, I'm so glad you set Appssembly up! Do you want to tell Esther that you're talking to her bot? %[Tell her](postback:twitter)",
-    "TELL HER": "Let's tweet @ Esther so she knows you're setting a bot up. Here's a tweet that's ready to go: %[Tweet Esther](http://bit.ly/estherbot-tweet)",
+    "HELLO": "Hey there!\n Are you ready to get to know Adrian better?\n %[Get to know Adrian](postback:get_to_know_Adrian) %[No, thanks](postback:no_thanks)",
+    "HI": "Hi there!\n Would you like to get to know Adrian better?\n %[Get to know Adrian](postback:get_to_know_Adrian) %[No, thanks](postback:no_thanks)",
+    "HOWDY": "Hello!\n Would you like to get to know Adrian better?\n %[Get to know Adrian](postback:get_to_know_Adrian) %[No, thanks](postback:no_thanks)",    
+    "HOLA": "Hola! Como estas?\n Would you like to get to know Adrian better?\n %[Get to know Adrian](postback:get_to_know_Adrian) %[No, thanks](postback:no_thanks)",    
+    "BONJOUR": "Bonjour!\n Would you like to get to know Adrian better?\n %[Get to know Adrian](postback:get_to_know_Adrian) %[No, thanks](postback:no_thanks)",    
+    "WHAT'S UP": "Wazzupp! Sorry...\n Dear Sir/Madam, Would you be interested in exploring Adrian's life?\n %[Get to know Adrian](postback:get_to_know_Adrian) %[No, thanks](postback:no_thanks)",
+    "CHARLIE": "That's my name!\n Would you like to get to know Adrian better?\n %[Get to know Adrian](postback:get_to_know_Adrian) %[No, thanks](postback:no_thanks)",
+    "HELLO CHARLIE": "Hi there!\n Would you like to get to know Adrian better?\n %[Get to know Adrian](postback:get_to_know_Adrian) %[No, thanks](postback:no_thanks)",
+    "HI CHARLIE": "Hi there!\n Would you like to get to know Adrian better?\n %[Get to know Adrian](postback:get_to_know_Adrian) %[No, thanks](postback:no_thanks)",
+ 
+ 
+    "YES": "Great!\n Adrian is a man of many interests.\n Which facet of Adrian would you like to explore?\n %[The geek](postback:the_geek) %[The athlete](postback:the_athlete) %[The professional](postback:the_professional) %[The globetrotter](postback:the_globetrotter) %[The student leader](postback:the_studentleader)",
+    "GET TO KNOW": "Great!\n Adrian is a man of many interests.\n Which facet of Adrian would you like to explore?\n %[The geek](postback:the_geek) %[The athlete](postback:the_athlete) %[The professional](postback:the_professional) %[The globetrotter](postback:the_globetrotter) %[The student leader](postback:the_studentleader)",
+    "GET TO KNOW ADRIAN": "Great!\n Adrian is a man of many interests.\n Which facet of Adrian would you like to explore?\n %[The geek](postback:the_geek) %[The athlete](postback:the_athlete) %[The professional](postback:the_professional) %[The globetrotter](postback:the_globetrotter) %[The student leader](postback:the_studentleader)",
+    "TELL ME ABOUT ADRIAN": "Sure!\n Adrian is a man of many interests.\n Which facet of Adrian would you like to explore?\n %[The geek](postback:the_geek) %[The athlete](postback:the_athlete) %[The professional](postback:the_professional) %[The globetrotter](postback:the_globetrotter) %[The student leader](postback:the_studentleader)",
+    "LEARN ABOUT ADRIAN": "Great!\n Adrian is a man of many interests.\n Which facet of Adrian would you like to explore?\n %[The geek](postback:the_geek) %[The athlete](postback:the_athlete) %[The professional](postback:the_professional) %[The globetrotter](postback:the_globetrotter) %[The student leader](postback:the_studentleader)",
+
+    "ANOTHER FACET": "Which facet would you like to explore?\n %[The geek](postback:the_geek) %[The athlete](postback:the_athlete) %[The professional](postback:the_professional) %[The globetrotter](postback:the_globetrotter) %[The student leader](postback:the_studentleader)",
+
+   
+    "NO, THANKS": "No worries!\n Just say HELLO and I'll be at your disposal",
+    "NO, THANK YOU": "No worries!\n Just say HELLO and I'll be at your disposal",
+    "NO": "No worries!\n Just say HELLO and I'll be at your disposal",
+    "BYE": "Thank you for your interest, enjoy the rest of your day\n Bye!\n Just say HELLO and I'll be at your disposal",
+    "GOODBYE": "Thank you for your interest, enjoy the rest of your day\n Bye!\n Just say HELLO and I'll be at your disposal",
+    "GOOD BYE": "Thank you for your interest, enjoy the rest of your day\n Bye!\n Just say HELLO and I'll be at your disposal",
+    "BYE CHARLIE": "Thank you for your interest, enjoy the rest of your day\n Bye!\n Just say HELLO and I'll be at your disposal",
+    "GOODBYE CHARLIE": "Thank you for your interest, enjoy the rest of your day\n Bye!\n Just say HELLO and I'll be at your disposal",
+    "GOOD BYE CHARLIE": "Thank you for your interest, enjoy the rest of your day\n Bye!\n Just say HELLO and I'll be at your disposal",
+
+
+
+    "ADRIAN": "Adrian is cool ...\n but Charlie is cooler ;)",
+
+
+    "THE GEEK": "![Adrian](https://raw.githubusercontent.com/adidibmx/EstherBot/master/img/Adrian_profile.png)\n Here is Adrian after building a 3D printer.\n Adrian really enjoys discovering new technologies!\n Here a list of cool projects he has worked on: %[Kilobots](postback:Kilobots) %[Self driving cars](postback:Self_Driving_Cars) %[Chatbots](postback:Chatbots)",
+    "ANOTHER GEEK PROJECT": "Which project would you like to explore: %[Kilobots](postback:Kilobots) %[Self driving cars](postback:Self_Driving_Cars) %[Chatbots](postback:Chatbots)",
+    
+    "KILOBOTS": "This is a Kilobot!\n![SingleKilobot](https://raw.githubusercontent.com/adidibmx/EstherBot/master/img/single_kilobot.jpg)\n One of the simplest/cheapest robots in the world.\n The Kilobot was designed by the Self-organizing Systems Research Lab at Harvard where Adrian conducted his Master thesis.\n Kilobots are the largest swarm of robots in the world.\n![SwarmKilobot](https://raw.githubusercontent.com/adidibmx/EstherBot/master/img/kilobot-swarm.jpg)\n Adrian focused his research in collective transport, having kilobots work together to move objects they could not move alone.\n Here is a video of kilobots collectively stealing a picnic basket:\n![Picnic](https://raw.githubusercontent.com/adidibmx/EstherBot/master/img/kilobot.gif)\n Aren't they cool!\n %[Another geek project](postback:Another_geek_project) %[Another facet](postback:Another_facet)",
+    "SELF DRIVING CARS": "Adrian conducted research on self driving cars at the Distributed Intelligent Systems and Algorithms Laboratory at EPFL.\n His research focused on creating algorithms to avoid collisions by measuring the speed and acceleration of other drivers.\n ![Cars](https://raw.githubusercontent.com/adidibmx/EstherBot/master/img/cars.png)\n You can find the publication by clicking on the microscope on top of the page\n %[Another geek project](postback:Another_geek_project) %[Another facet](postback:Another_facet)",
+    "CHATBOTS": "This is Adrian's master piece!\n![CharliePic](https://raw.githubusercontent.com/adidibmx/EstherBot/master/img/charlie.jpg)\n Me, Charlie!\n Adrian likes to explore new technologies.\n He enjoys understanding and discussing the opportunities and potential applications these can bring.\n %[Another geek project](postback:Another_geek_project) %[Another facet](postback:Another_facet)",
+
+
+    "THE ATHLETE": "Adrian has since a very young age been engaged in sports!\n ![ATHLETE](https://raw.githubusercontent.com/adidibmx/EstherBot/master/img/athlete.jpg)\n Here you can see Adrian warming-up.\n Below a short list of some sports he enjoys: %[BMX](postback:BMX) %[Snowboarding](postback:Snowboarding) %[Kitesurfing](postback:Kitesurfing)",
+    "ANOTHER SPORT": "Which sport would you like to explore: %[BMX](postback:BMX) %[Snowboarding](postback:Snowboarding) %[Kitesurfing](postback:Kitesurfing)",
+
+    "BMX": "Adrian participated in two world championships (Brazil 2006 and Canada 2007) representing his home country Bolivia.\n ![BMX](https://raw.githubusercontent.com/adidibmx/EstherBot/master/img/bmx.jpg)\n Jumping over 30 ft jumps while battling with 7 other riders doesn't look easy at all...\n %[Another sport](postback:Another_sport) %[Another facet](postback:Another_facet)",
+    "SNOWBOARDING": "Since he moved to Switzerland, Adrian has spent most of his winter holidays snowboarding in the Alps.\n ![SNOWBOARD](https://raw.githubusercontent.com/adidibmx/EstherBot/master/img/snowboard_rafa.jpg)\n Ok, Ok, that's not Adrian. That's his brother Rafael.\n %[Another sport](postback:Another_sport) %[Another facet](postback:Another_facet)",
+    "KITESURFING": "The most recent sport Adrian has gotten into is kitesurfing. The speed and adrenaline provided by the wind are fantastic!\n ![KITESURFING](https://raw.githubusercontent.com/adidibmx/EstherBot/master/img/kitesurfing2.jpg)\n At the moment Adrian spends more time drinking seawater than up on his board %[Another sport](postback:Another_sport) %[Another facet](postback:Another_facet)",
+
+    "THE PROFESSIONAL": "Adrian has had the opportunity to work in several companies.\n Would you like to learn more about his professional experience: %[IBM](postback:IBM) %[DUPONT](postback:DUPONT) %[BCG](postback:BCG)",
+    "ANOTHER JOB": "Which job would you like to know more about: %[IBM](postback:IBM) %[DUPONT](postback:DUPONT) %[BCG](postback:BCG)",
+
+    "IBM": "![IBMLOGO](https://raw.githubusercontent.com/adidibmx/EstherBot/master/img/ibmlogo.jpg)\n Adrian joined IBM's Work-student program, where he worked part time (50%) during his studies.\n During his time at IBM he held two positions:\n His first role was in the competency development and education team.\n He then moved to the IT security team where he performed IT automation for banking servers.\n %[Another job](postback:Another_job) %[Another facet](postback:Another_facet)",
+    "DUPONT": "![DUPONTLOGO](https://raw.githubusercontent.com/adidibmx/EstherBot/master/img/dupontlogo.jpg)\n After graduating from EPFL, Adrian joined DuPont's European Operations Graduate Program\n The program consisted in 3 rotations of 2 years in different manufacturing plants.\n The goal of the program was to create the next generation of plant managers.\n![DuPontUniform](https://raw.githubusercontent.com/adidibmx/EstherBot/master/img/dupont_uniform.jpg)\n %[Another job](postback:Another_job) %[Another facet](postback:Another_facet)",
+    "BCG": "![BCGLOGO](https://raw.githubusercontent.com/adidibmx/EstherBot/master/img/bcglogo.jpg)\n At the Boston Consulting Group, Adrian has had the opportunity to experience various industries, develop solutions in different expertise areas and gain international exposure by working in different countries.\n %[Another job](postback:Another_job) %[Another facet](postback:Another_facet)",
+
+    "THE GLOBETROTTER": "Adrian is half Bolivian and half Spanish.\n He has lived in four countries: Bolivia, Switzerland, the U.S. and France, nine cities, twenty houses and attended nine different schools.\n Adrian has moved a lot!!\n Here some adventures I think you might enjoy.\n %[U.S. bus trip](postback:US_Bus_trip) %[Bolivian salt flats](postback:bolivian_salt_flats) %[Iran discovery](postback:Iran_discovery)",
+    "ANOTHER ADVENTURE": "Which adventure would you like to know more about:\n %[U.S. bus trip](postback:US_Bus_trip) %[Bolivian salt flats](postback:bolivian_salt_flats) %[Iran discovery](postback:Iran_discovery)",
+
+    "U.S. BUS TRIP": "After his Master thesis Adrian traveled from Boston to San Francisco.\n ![BUSTRIP](https://raw.githubusercontent.com/adidibmx/EstherBot/master/img/bustrip.gif)\n He travelled in a bus which he called home during 2 weeks with some amazing sceneries\n![BUS](https://raw.githubusercontent.com/adidibmx/EstherBot/master/img/busscenery.jpg)\n %[Another adventure](postback:Another_adventure) %[Another facet](postback:Another_facet)",
+    "BOLIVIAN SALT FLATS": "Sometimes you do not have to travel far to see some amazing places.\n ![UYUNISKY](https://raw.githubusercontent.com/adidibmx/EstherBot/master/img/uyuni-sky.jpg)\n This is a picture of the sky in Uyuni, Bolivia. A couple of hours away from where Adrian was raised.\n Here a fun picture with his travel mates\n![UYUNIEVO](https://raw.githubusercontent.com/adidibmx/EstherBot/master/img/uyuni-evolution.jpg)\n %[Another adventure](postback:Another_adventure) %[Another facet](postback:Another_facet)",
+    "IRAN DISCOVERY": "Last year Adrian had the opportunity to discover a completely new country and culture.\n ![IRAN](https://raw.githubusercontent.com/adidibmx/EstherBot/master/img/iran.jpg)\n He traveled through Iran for 2 weeks getting to see beautiful places and experiencing a very different culture.!\n ![IRAN3](https://raw.githubusercontent.com/adidibmx/EstherBot/master/img/iran3.jpg)\n %[Another adventure](postback:Another_adventure) %[Another facet](postback:Another_facet)",
+
+    "THE STUDENT LEADER": "Adrian held various leadership roles throughout his studies.\n Here some of the organizations he was a part of:\n %[IVE](postback:IVE) %[AIESEC](postback:AIESEC) %[FESTIVAL BALELEC](postback:festival_balelec)",
+    "ANOTHER EXTRACURRICULAR": "Which other extracurricular activity would you like to know more about:\n %[IVE](postback:IVE) %[AIESEC](postback:AIESEC) %[FESTIVAL BALELEC](postback:festival_balelec)",
+
+    "IVE": "![IVELOGO](https://raw.githubusercontent.com/adidibmx/EstherBot/master/img/ive.png)\n IVE stands for Institute for Value-based Entrepreneurship.\n The organization provides 7 Entrepreneurship Workshops to students on how to create a business plan.\n The workshops are facilitated by real entrepreneurs and former executives.\n Adrian co-founded IVE Lausanne's chapter from scratch and within its first three years trained more than 80 students.\n %[Another extracurricular](postback:Another_extracurricular) %[Another facet](postback:Another_facet)",
+    "AIESEC": "![AIESECLOGO](https://raw.githubusercontent.com/adidibmx/EstherBot/master/img/aieseclogo.jpg)\n AIESEC is the world's largest student organization present in more than 110 countries.\n It's goal is to promote cultural exchange through internships, conferences and exchange.\n Adrian led the Talent Management team (6 people). During Adrian's term as a VP the committee grew from 10 to 42 members in 6 months.\n![AIESECCONFERENCE](https://raw.githubusercontent.com/adidibmx/EstherBot/master/img/aiesecconference.jpg)\n %[Another extracurricular](postback:Another_extracurricular) %[Another facet](postback:Another_facet)",
+    "FESTIVAL BALELEC": "![BALELECLOGO](https://raw.githubusercontent.com/adidibmx/EstherBot/master/img/baleleclogo.png)\n Balelec is the largent music festival organized by students in Europe.\n With 15'000 attendees listening to 18 bands playing in 8 different stages.\n![UYUNISKY](https://raw.githubusercontent.com/adidibmx/EstherBot/master/img/balelecevent.jpg)\n Adrian was in charge of transportation and traffic management. He led a team of 6 to ensure everyone would get to the festival and back home safely.\n %[Another extracurricular](postback:Another_extracurricular) %[Another facet](postback:Another_facet)",
+
+
+    "EDUCATION": "Adrian has studied in 9 different schools throughout his life.\n In three different countries: Bolivia, the U.S. and Switzerland\n",
+    "HIGH SCHOOL": "Adrian has studied in two different high schools.\n He attended a French school in Bolivia during his freshman and sophomore years.\n After this he attended Freedom high school in Tampa, Fl for his junior and senior year.\n",
+    "BACHELORS DEGREE": "Adrian decided he wanted to not only explore a new field of studies but also a new country.\n He attended the Swiss Institute of Technology in Lausanne (EPFL in French)\n Where he earned his Bachelor degree in MicroEngineering.\n",
+    "MASTERS DEGREE": "Adrian earned a Masters degree in microengineering at EPFL.\n He received a specialization in production techniques although he focused all his electives in robotics\n He conducted his Master thesis at Harvard in the field of swarm robotics",
+    "MASTER THESIS": "Adrian  was a visiting scholar at the SSR lab in Harvard for 8 months.\n He conducted research on collective transport with kilobots.\n Learn more about:%[Kilobots](postback:Kilobots)",
     "I LOVE YOU": "Awh, shucks! I love you too!",
+    "RANDOM FACT": "Adrian is color blind",
+    "TELL ME A JOKE": "Two chatbots walk into a bar... I don't remember what happened next",
+    "PUBLICATIONS": "You can find a list of the scientific articles Adrian has published by clicking on the microscope at the top of the page.",
     "CONNECT ME": "",
-    "DISCONNECT": "Roger that, EstherBot is back."
+    "DISCONNECT": "Roger that, Charlie is back in charge."
 }
