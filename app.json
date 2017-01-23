@@ -1,9 +1,9 @@
 {
-  "name": "Esther Bot",
-  "description": "Esther, bot.",
-  "keywords": ["esther", "bot", "express"],
-  "website": "https://estherbot.com",
-  "repository": "https://github.com/esthercrawford/smooch-bot-example",
+  "name": "Apphia Bot",
+  "description": "Apphia, bot.",
+  "keywords": ["apphia", "bot", "express"],
+  "website": "https://appssembly.com.au",
+  "repository": "https://github.com/appssembly/Apphia",
   "logo": "http://www.estherbot.com/wp-content/uploads/2016/03/EstherBot-photo.png",
   "env": {
     "SMOOCH_APP_TOKEN": {
