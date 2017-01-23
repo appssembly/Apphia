@@ -1,13 +1,13 @@
 {
-"HELLO": "Hello, \n Would you like to get to know Appssembly better?\n %[Learn about Appssembly](postback:learn_about_appssembly)%[No, thanks](postback:no_thanks)",
-"HI": "Hello, \n Would you like to get to know Appssembly better?\n %[Learn about Appssembly](postback:learn_about_appssembly)%[No, thanks](postback:no_thanks)",
-"HOWDY": "Hello, \n Would you like to get to know Appssembly better?\n %[Learn about Appssembly](postback:learn_about_appssembly)%[No, thanks](postback:no_thanks)",
-"HOLA": "Hello, \n Would you like to get to know Appssembly better?\n %[Learn about Appssembly](postback:learn_about_appssembly)%[No, thanks](postback:no_thanks)",
-"BONJOUR": "Bonjour, \n Would you like to get to know Appssembly better?\n %[Learn about Appssembly](postback:learn_about_appssembly)%[No, thanks](postback:no_thanks)",
-"WHAT'S UP": "Everything and Anything :), \n Would you like to get to know Appssembly better?\n %[Learn about Appssembly](postback:learn_about_appssembly)%[No, thanks](postback:no_thanks)",
-"APPHIA": "That's my name! Don't wear it out! :), \n Would you like to get to know Appssembly better?\n %[Learn about Appssembly](postback:learn_about_appssembly)%[No, thanks](postback:no_thanks)",
-"HELLO APPHIA": "Hi there, \n Would you like to get to know Appssembly better?\n %[Learn about Appssembly](postback:learn_about_appssembly)%[No, thanks](postback:no_thanks)",  
-"HI APPHIA": "Hi, \n Would you like to get to know Appssembly better?\n %[Learn about Appssembly](postback:learn_about_appssembly)%[No, thanks](postback:no_thanks)",
+"HELLO": "Hello, \n Would you like to get to know Appssembly better?\n %[Learn about Appssembly](postback:learn_about_appssembly) %[No, thanks](postback:no_thanks)",
+"HI": "Hello, \n Would you like to get to know Appssembly better?\n %[Learn about Appssembly](postback:learn_about_appssembly) %[No, thanks](postback:no_thanks)",
+"HOWDY": "Hello, \n Would you like to get to know Appssembly better?\n %[Learn about Appssembly](postback:learn_about_appssembly) %[No, thanks](postback:no_thanks)",
+"HOLA": "Hello, \n Would you like to get to know Appssembly better?\n %[Learn about Appssembly](postback:learn_about_appssembly) %[No, thanks](postback:no_thanks)",
+"BONJOUR": "Bonjour, \n Would you like to get to know Appssembly better?\n %[Learn about Appssembly](postback:learn_about_appssembly) %[No, thanks](postback:no_thanks)",
+"WHAT'S UP": "Everything and Anything :), \n Would you like to get to know Appssembly better?\n %[Learn about Appssembly](postback:learn_about_appssembly) %[No, thanks](postback:no_thanks)",
+"APPHIA": "That's my name! Don't wear it out! :), \n Would you like to get to know Appssembly better?\n %[Learn about Appssembly](postback:learn_about_appssembly) %[No, thanks](postback:no_thanks)",
+"HELLO APPHIA": "Hi there, \n Would you like to get to know Appssembly better?\n %[Learn about Appssembly](postback:learn_about_appssembly) %[No, thanks](postback:no_thanks)",  
+"HI APPHIA": "Hi, \n Would you like to get to know Appssembly better?\n %[Learn about Appssembly](postback:learn_about_appssembly) %[No, thanks](postback:no_thanks)",
  
  
 "YES": "Great!\n Quite simply Appssembly is a mobile development solutions provider. We don't try and push products to clients; we seek out the most suitable solutions \n %[Why Appssembly](postback:why_appssembly) %[Services](postback:services) %[The Team](postback:the_team)",
@@ -28,7 +28,6 @@
 "GOOD BYE APPHIA": "Thank you for your interest, enjoy the rest of your day\n Bye!\n Just say HELLO and I'll be at your disposal",
 
 "APPSSEMBLY": "Yay Appssembly!, they are so amazing...\n but I, Apphia, am so much more awesome!)",
-
 
 "WHY APPSSEMBLY": "Three reasons! \n Appssembly puts the client first above all! \n When piecing the right solution together, Appssembly may pull together a number of third party vendors; don't worry they will be the prime partner (single partner to contact for any issues) and \n They embrace cutting edge technology and their solutions are innovative (Buzzword alert!)\n %[The Team](postback:the_team) %[Services](postback:services)",
         
