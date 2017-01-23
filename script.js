@@ -14,8 +14,9 @@ module.exports = new Script({
 
     start: {
         receive: (bot) => {
-            return bot.say('Hello, I am Apphia, Appssembly\'s personal assistant')
-                .then(() => 'askName');
+            //return bot.say('Hello, I am Apphia, Appssembly\'s personal assistant')
+            //    .then(() => 'askName');
+            return bot.say("%[Get Started](postback:get_started)").then(() => "speak");
         }
     },
 
