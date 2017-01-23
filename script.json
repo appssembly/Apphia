@@ -27,7 +27,7 @@
 
    "APPSSEMBLY": "Yay Appssembly!, they are so amazing...\n but I, Apphia, am so much more awesome!)",
 
-   "WHY APPSSEMBLY": "Three reasons! \n Appssembly puts the client first above all! \n When piecing the right solution together, Appssembly may pull together a number of third party vendors; don't worry they will be the prime partner (single partner to contact for any issues) and \n They embrace cutting edge technology and their solutions are innovative (Buzzword alert!)\n %[The Team](postback:the_team) %[Services](postback:services)",
+   "WHY APPSSEMBLY": "For three reasons! \n One: The Customer \n Appssembly puts and values the client first above all else! \n Two: Prime Partner \n When assembling a solution together, Appssembly may pull together a number of other outside third party vendors. Don't worry, they will be the prime partner (single partner to contact for any issues). \n Three: Innovative (Buzzword Alert!) \n But it's fact.  They embrace cutting edge technology and deliver solutions through a can-do approach \n %[The Team](postback:the_team) %[Services](postback:services)",
         
    "THE TEAM": "%[Saleem](postback:saleem) %[Lyndal](postback:lyndal)",
 
