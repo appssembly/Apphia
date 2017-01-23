@@ -1,4 +1,6 @@
 {
+   "GET STARTED": "Hello, \n I am Apphia, Appssembly\'s personal assistant chatbot \n Would you like to get to know Appssembly better? \n %[About Appssembly](postback:learn_about_appssembly) %[No, thanks](postback:no_thanks)",
+   
    "HELLO": "Hello, \n Would you like to get to know Appssembly better?\n %[About Appssembly](postback:learn_about_appssembly) %[No, thanks](postback:no_thanks)",
    "HI": "Hello, \n Would you like to get to know Appssembly better?\n %[About Appssembly](postback:learn_about_appssembly) %[No, thanks](postback:no_thanks)",
    "HOWDY": "Hello, \n Would you like to get to know Appssembly better?\n %[About Appssembly](postback:learn_about_appssembly) %[No, thanks](postback:no_thanks)",
